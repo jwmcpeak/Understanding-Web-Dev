@@ -1,4 +1,4 @@
-# [Understand Web Development][published url]
+# [How to Become a Web Developer][published url]
 ## Instructor: [Jeremy McPeak][instructor url]
 
 
@@ -14,9 +14,9 @@ This repository contains the source for each exercise and sample project that wa
 
 ------
 
-These are source files for the Tuts+ course: [Understand Web Development][published url]
+These are source files for the Tuts+ course: [How to Become a Web Developer][published url]
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/understand-web-development
+[published url]: https://code.tutsplus.com/courses/how-to-become-a-web-developer
 [instructor url]: https://tutsplus.com/authors/jeremy-mcpeak
